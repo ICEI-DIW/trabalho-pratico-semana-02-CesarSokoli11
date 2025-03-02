@@ -3,7 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Cesar Sokoli
+- Matricula: 887866
 
 ## Print da tela da página criad
+![image](https://github.com/user-attachments/assets/74e159bd-7eb6-46d0-a34d-9051e0b23bba)
+
